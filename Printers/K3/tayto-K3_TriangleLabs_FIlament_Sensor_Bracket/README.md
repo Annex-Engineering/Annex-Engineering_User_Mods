@@ -2,7 +2,7 @@
 
 This is a very simple bracket for the TL Filament Sensor.  
 
-![IMAGE](/tayto-K3_TriangleLabs_Filament_Sensor_Bracket/Images/K3_Filament_Sensor.jpg)
+![IMAGE](./Images/K3_Filament_Sensor.jpg)
 
 ## BOM
 
