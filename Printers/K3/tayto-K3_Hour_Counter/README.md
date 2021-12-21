@@ -1,6 +1,6 @@
 # Hour Counter for Electronics Plate
 
-![IMAGE](./Images/K3_Hour_Counter.jpg)
+![IMAGE](./Images/K3_Hour_Counter.jpeg)
 
 ## WHY!?!
 
