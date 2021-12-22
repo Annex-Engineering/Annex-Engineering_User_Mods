@@ -2,7 +2,7 @@
 
 This repo hosts mods created by end users of the Annex Engineering line of printers, extruders and other misc projects. Please follow the folder hierarchy described below when creating a pull request
 
-## Folder Heirarchy:
+## Folder Hierarchy:
  -  / printer / user_name-mod_name / STLs /
  -  / printer / user_name-mod_name / CAD /
  -  / printer / user_name-mod_name / Images /
