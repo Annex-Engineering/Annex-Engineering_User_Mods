@@ -1,7 +1,7 @@
-# Housing Core with Collet and Filament sensor
+# Housing Core with Filament sensor
 
-This mod uses a clicky switch as sensor 
+This mod uses a limit micro switch as a filament sensor. the position of the idler door is used to trigger the switch, the trigger point can be adjusted with the m3x6 screw 
 
 
-![Image of Housing with PTFE Collet](https://github.com/szaghi/Sherpa_Mini-Extruder/blob/master/User_Mods/Housing_Core_with_Integrated_PTFE_Retaining_Collet/images/housing_with_collet_view.png?raw=true)
+![Image]()
 
