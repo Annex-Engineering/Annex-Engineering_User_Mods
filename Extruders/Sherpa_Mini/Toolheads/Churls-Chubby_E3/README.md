@@ -2,7 +2,7 @@
 
 This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini, QuickDraw, dual 5020 part cooling fans, and the stock creality hotend.
 
-![Image of Stiffy](./Images/Stiffy.png)
+![Image of Stiffy](./Images/Chubby.png)
 
 ## Parts Required
 
