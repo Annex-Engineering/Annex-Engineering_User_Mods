@@ -2,6 +2,8 @@
 
 You may need some handles to pick up your new chunky boi. These handles bolt to the side panel frames, which should ensure that you can pick up and move your K3 around without issues.
 
+![image](./Images/image0.jpeg)
+
 ### Print settings
 - Many perimeters 8
 - Infil > 50% infill
@@ -11,3 +13,9 @@ You may need some handles to pick up your new chunky boi. These handles bolt to 
 
 ### Printing notes
 **NOTE** You want these to be as solid as possible. Make sure you can't break the handle by twisting it before installing them on your K3. 
+
+![image](./Images/image0.jpeg)
+![image](./Images/image1.jpeg)
+![image](./Images/Handles.png)
+![image](./Images/Handles2.png)
+![image](./Images/Slice%20orientation.png)
