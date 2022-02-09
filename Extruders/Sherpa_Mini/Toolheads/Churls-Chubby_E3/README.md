@@ -19,5 +19,14 @@ This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini,
 - 10X Heatset Inserts (3x5x4mm)
 
 **Optional**
-- QuickDraw
-- Slice Engineering Copperhead (C-E) Heatbreak
+- [QuickDraw](https://github.com/Annex-Engineering/Quickdraw_Probe) 
+	- Print, assemble, and install Quickdraw, dock, and holder (see [CAD](./CAD/Stiffy.EASM))
+		- Set the X position of dock between the X home position and the bed with the opening facing left. There should be about 2mm between the bed and the back of the dock.
+		- Set the Y position of dock so that Stiffy's magnets are aligned with QuickDraw's magnets when it is docked.
+		- Set the Z position of the dock so that Stiffy's and QuickDraw's magnets barely touch after homing Z with the stock Z endstop. 
+	- Download Dalegaard's [XZ_dockable_probe.py](https://gist.github.com/dalegaard/3f1b8695275a15b1888119304d79b88d) module and modify [klipper config](./QuickDraw_klipper_config.cfg)
+	- Note: The stock endstop locates the dock height then QuickDraw defines Z0 once the homing routine is complete.
+	- Homing video: 
+
+[![Homing video](https://img.youtube.com/vi/NMOQogjF0p8/0.jpg)](https://youtu.be/NMOQogjF0p8)
+
