@@ -4,6 +4,7 @@ This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini,
 
 ![Image of Stiffy](./Images/Stiffy.png)
 
+
 ## Parts Required
 
 **Required**
@@ -20,6 +21,8 @@ This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini,
 
 **Optional**
 - [QuickDraw](https://github.com/Annex-Engineering/Quickdraw_Probe) 
-	- Print and assemble mini dock and holder (see [CAD](/CAD/Stiffy.EASM))
-	- Modify [klipper config](/QuickDraw_klipper_config.cfg) 
-- [Slice Engineering Copperhead (C-E) Heatbreak] (https://www.bondtech.se/product/copperhead-c-e-heat-break/)
+	- Print and assemble Quickdraw, mini dock, and holder (see [CAD](./CAD/Stiffy.EASM))
+	- Install Dalegaard's [XZ_dockable_probe.py](https://gist.github.com/dalegaard/3f1b8695275a15b1888119304d79b88d) module and modify [klipper config](./QuickDraw_klipper_config.cfg)
+	- Homing video: 
+
+[![Homing video](https://img.youtube.com/vi/NMOQogjF0p8/0.jpg)](https://youtu.be/NMOQogjF0p8)
