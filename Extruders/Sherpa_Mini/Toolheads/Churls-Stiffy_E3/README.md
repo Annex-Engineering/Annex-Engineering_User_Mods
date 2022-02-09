@@ -1,6 +1,6 @@
 # Stiffy Toolhead for the Ender 3
 
-This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini, QuickDraw, dual 5015 part cooling fans, and the stock creality hotend.
+This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini, QuickDraw, dual 5015 part cooling fans, and the stock Creality hotend.
 
 ![Image of Stiffy](./Images/Stiffy.png)
 
@@ -19,5 +19,7 @@ This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini,
 - 6X Heatset Inserts (3x5x4mm)
 
 **Optional**
-- QuickDraw
-- Slice Engineering Copperhead (C-E) Heatbreak
+- [QuickDraw](https://github.com/Annex-Engineering/Quickdraw_Probe) 
+	- Print and assemble mini dock and holder (see [CAD](/CAD/Stiffy.EASM))
+	- Modify [klipper config](/QuickDraw_klipper_config.cfg) 
+- [Slice Engineering Copperhead (C-E) Heatbreak] (https://www.bondtech.se/product/copperhead-c-e-heat-break/)
