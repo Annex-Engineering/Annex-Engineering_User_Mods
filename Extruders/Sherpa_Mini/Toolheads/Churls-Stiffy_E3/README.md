@@ -8,9 +8,9 @@ This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini,
 ## Parts Required
 
 **Required**
-- Sherpa Mini with K front plate
-- 1x 4010 axial fan (hotend cooling)
-- 2x 5015 blower fan (parts cooling)
+- [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/) with [housing_front_k](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/FDM_STLs/optional_parts/%5Ba%5D_housing_front_k_x1_rev5.STL)
+- 1x 4010 axial fan
+- 2x 5015 blower fan
 - 4x M3X20mm
 - 2x M3x25mm
 - 2x M3x16mm
