@@ -20,6 +20,7 @@ This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini,
 - 6X Heatset Inserts (3x5x4mm)
 
 **Optional**
+- 60W or greater heater cartridge (the increased cooling can overwelm the stock 40W heater when printing at 15mm^3/s, 220C, 100% fan)
 - [QuickDraw](https://github.com/Annex-Engineering/Quickdraw_Probe) 
 	- Print, assemble, and install Quickdraw, dock, and holder (see [CAD](./CAD/Stiffy.EASM))
 		- Set the X position of dock between the X home position and the bed with the opening facing left. There should be about 2mm between the bed and the back of the dock.
