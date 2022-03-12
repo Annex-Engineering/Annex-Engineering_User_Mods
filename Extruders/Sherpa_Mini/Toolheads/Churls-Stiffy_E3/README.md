@@ -11,6 +11,7 @@ This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini,
 - [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/) with [housing_front_k](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/FDM_STLs/optional_parts/%5Ba%5D_housing_front_k_x1_rev5.STL)
 - 1x 4010 or 4020 axial fan
 - 2x 5015 blower fan
+- Creality Hotend or Phaetus BMS (7 fin) Hotend
 - 4x M3X20mm
 - 2x M3x25mm
 - 2x M3x16mm
@@ -20,7 +21,7 @@ This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini,
 - 6X Heatset Inserts (3x5x4mm)
 
 **Optional**
-- 60W or greater heater cartridge (the increased cooling can overwelm the stock 40W heater when printing at 15mm^3/s, 220C, 100% fan)
+- 60W or greater heater cartridge (the increased cooling can overwhelm the stock 40W heater when printing at 15mm^3/s, 220C, 100% fan)
 - [QuickDraw](https://github.com/Annex-Engineering/Quickdraw_Probe) 
 	- Print, assemble, and install Quickdraw, dock, and holder (see [CAD](./CAD/Stiffy.EASM))
 		- Set the X position of dock between the X home position and the bed with the opening facing left. There should be 2mm between the bed and the back of the dock using the stock X endstop. Using the optional x_endstop_mount.stl will allow 12mm between bed and dock. 
@@ -31,3 +32,6 @@ This is a complete toolhead for the Ender 3 (v1 carriage) that uses Sherpa Mini,
 	- Homing video: 
 
 [![Homing video](https://img.youtube.com/vi/NMOQogjF0p8/0.jpg)](https://youtu.be/NMOQogjF0p8)
+- BLTouch
+	- Use [BLTouch_4010_Mount.STL](./STLs/Optional/BLTouch_4010_brace.STL)
+	- Remix of [Hairing's fan mounted BLTouch](https://www.thingiverse.com/thing:4617163)
