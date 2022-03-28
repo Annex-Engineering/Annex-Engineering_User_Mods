@@ -1,0 +1,2 @@
+This is a small bracket made for installing your Carabiner breakout board in the backpack. It is meant to be stuck down with double sided tape like 3M VHB.
+Two versions are included, one that threads straight into the plastic, the other uses M3 heat inserts.
