@@ -4,7 +4,7 @@ This mod of the rebreather is designed to be mounted under the bed of an Annex K
 
 Parts and assembly is basically the same as the original rebreather, with the exception of a few more screws for the bridges, more magnets for the cartridge and the grill. 
 
-The grills will need to be sliced with 0 top and bottom layers and set the infill to your desired percentage. 
+The grills will need to be sliced with 0 top and bottom layers and set the infill to your desired percentage (small enough to retain activated carbon). 
 
 The mounts will require:
 - 4x m5x10 SHCS
