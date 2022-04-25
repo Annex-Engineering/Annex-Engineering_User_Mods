@@ -14,3 +14,7 @@ This repo hosts mods created by end users of the Annex Engineering line of print
  - CAD should include all steps, parasolids, solidworks files, or other cad files
  - STLs should include any and all STLs required
  - Images should include all required pictures, videos, etc
+
+Our discord server can be found here: 
+
+[![Join me on Discord](https://discord.com/api/guilds/641407187004030997/widget.png?style=banner2)](https://discord.gg/MzTR3zE)
