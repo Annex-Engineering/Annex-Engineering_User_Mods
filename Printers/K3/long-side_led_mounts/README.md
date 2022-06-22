@@ -4,8 +4,8 @@ Side LED Mounts for V-Style Aluminum Brackets
 <TR><TD width=50% align="center"><img src="Images/topview.jpg"></TD>
 <TD width=50% align="center"><img src="Images/closeup.jpg"></TD>
 </TR>
+<TR><TD width=50% align="center"><img src="Images/lights.jpg"></TD>
 <TR><TD width=50% align="center"><img src="Images/heatset_location.jpg"></TD>
-<TD></TD>
 </TR>
 </TABLE>
 
