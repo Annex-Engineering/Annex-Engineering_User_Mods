@@ -8,7 +8,7 @@ This is a complete toolhead for the Ender 3 that incorporates the Sherpa Mini (o
 ## Parts Required
 
 **Required**
-- [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/) or [Sherpa Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) with [housing_front_k](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/FDM_STLs/optional_parts/%5Ba%5D_housing_front_k_x1_rev5.STL)
+- [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/) with [housing_front_k](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/FDM_STLs/optional_parts/%5Ba%5D_housing_front_k_x1_rev5.STL)
 - 1x 4010 or 4020 axial fan
 - 2x 5015 blower fan
 - Creality Hotend or Phaetus BMS (7 fin) Hotend
@@ -18,7 +18,7 @@ This is a complete toolhead for the Ender 3 that incorporates the Sherpa Mini (o
 - 2x M3x12mm
 - 3x M3x6mm
 - 4x M3 nuts
-- 5-7x Heatset Inserts (3x5x4mm)
+- 5x Heatset Inserts (3x5x4mm)
 
 **Assembly**
 - See [Images](./Images)
