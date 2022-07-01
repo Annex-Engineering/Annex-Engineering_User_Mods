@@ -1,6 +1,6 @@
 # Stiffy Toolhead for the Ender 3
 
-This is a complete toolhead for the Ender 3 that incorporates the Sherpa Micro, QuickDraw, dual 5015 part cooling fans, and the stock Creality hotend.
+This is a complete toolhead for the Ender 3 that incorporates the MIRRORED Sherpa Micro, QuickDraw, dual 5015 part cooling fans, and the stock Creality hotend.
 
 ![Image of Stiffy](./Images/Stiffy.png)
 
@@ -8,7 +8,7 @@ This is a complete toolhead for the Ender 3 that incorporates the Sherpa Micro, 
 ## Parts Required
 
 **Required**
-- [Sherpa Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) with [housing_front_k](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/FDM_STLs/optional_parts/%5Ba%5D_housing_front_k_x1_rev5.STL)
+- **MIRRORED** [Sherpa Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) with **MIRRORED** [housing_front_k](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/FDM_STLs/optional_parts/%5Ba%5D_housing_front_k_x1_rev5.STL) (mirror all STLs about X axis in slicer)
 - 1x 4010 axial fan
 - 2x 5015 blower fan
 - Creality Hotend
