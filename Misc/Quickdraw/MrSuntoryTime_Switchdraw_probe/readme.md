@@ -1,4 +1,4 @@
-A magnetically coupled and repulsing version of annex engineering's microswitch Quickdraw probe.
+A magnetically coupled and repulsing version of ANNEX ENGINEERING's microswitch Quickdraw probe.
 
 Heavily inspired by [unklicky](https://github.com/majarspeed/Unklicky) and adapted from [unclid](https://github.com/Minsekt/Unclid).
 
