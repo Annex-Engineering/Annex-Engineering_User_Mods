@@ -3,7 +3,9 @@ A magnetically coupled and repulsing version of annex engineering's microswitch 
 Heavily inspired by [unklicky](https://github.com/majarspeed/Unklicky) and adapted from [unclid](https://github.com/Minsekt/Unclid).
 
 
-![probe assembly](https://github.com/MrSuntoryTime/Annex-Engineering_User_Mods/blob/main/Misc/Quickdraw/MrSuntoryTime_Switchdraw_probe/Images/switchdraw_probe_2022-Jul-08_05-46-32PM-000_CustomizedView8890935170.png)
+![probe assembly](https://github.com/MrSuntoryTime/Annex-Engineering_User_Mods/blob/main/Misc/Quickdraw/MrSuntoryTime_Switchdraw_probe/Images/switchdraw_probe.png)
+![probe side](https://github.com/MrSuntoryTime/Annex-Engineering_User_Mods/blob/main/Misc/Quickdraw/MrSuntoryTime_Switchdraw_probe/Images/switchdraw_probe_side.png)
+![crossection](https://github.com/MrSuntoryTime/Annex-Engineering_User_Mods/blob/main/Misc/Quickdraw/MrSuntoryTime_Switchdraw_probe/Images/crossection.png)
 ![magnet assembly](https://github.com/MrSuntoryTime/Annex-Engineering_User_Mods/blob/main/Misc/Quickdraw/MrSuntoryTime_Switchdraw_probe/Images/switchdraw_probe_magnets.png)
 
 
