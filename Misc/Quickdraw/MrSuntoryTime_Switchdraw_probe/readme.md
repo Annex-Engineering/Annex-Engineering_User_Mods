@@ -1,5 +1,7 @@
 A magnetically coupled and repulsing version of ANNEX ENGINEERING's microswitch Quickdraw probe.
 
+Fully compatible with QD1, QD2 mounts/docks and the Auto Z calibration plugin.
+
 Heavily inspired by [unklicky](https://github.com/majarspeed/Unklicky) and adapted from [unclid](https://github.com/Minsekt/Unclid).
 
 
@@ -13,7 +15,7 @@ Heavily inspired by [unklicky](https://github.com/majarspeed/Unklicky) and adapt
 
 - 4x 6x3 magnets
 
-- 2x M2x10 button head screws or 2x M2x8 set screws
+- 2x M2x10 or 2x M2x8 set screws
 
 - some 24/25 awg stranded wire
 
