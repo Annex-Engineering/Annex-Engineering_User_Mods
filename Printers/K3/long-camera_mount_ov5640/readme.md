@@ -1,6 +1,5 @@
 OV5640 Camera Mount
 ============
-**Dr. Ghetto is the one who did the research on the cameras and worked out where to mount it.  All I did was rework his mount.  All kudos should go to him.**
 <table width=100%>
 <TR><TD width=50% align="center"><img src="images/OV5640_10degree_tilt.png"><BR>10 degree tilt version</TD>
 <TD width=50% align="center"><img src="images/mounted.jpg"></TD>
@@ -12,7 +11,7 @@ OV5640 Camera Mount
 <TD width=50% align="center"><img src="images/ov5640.jpg"></TD>
 </TABLE>
 
-- Notes
+- **Notes**
    -   Stock Screws Version
        - Uses the screws that come with the camera (the ones that hold the sensor onto the lens)
 	   - Remove the screws holding the sensor to the lens.  Place the sensor/lens apparatus onto the mount then screw in from the back of the mount.
@@ -27,4 +26,6 @@ OV5640 Camera Mount
 - **BOM**
   - OV5640 Camera 100 degree No Distortion
     - [https://www.aliexpress.com/item/2255799933896897.html](https://www.aliexpress.com/item/2255799933896897.html)
+- **Acknowledgements**
+  - Dr. Ghetto is the one who did the research on the cameras and worked out where to mount it.  All I did was rework his mount.  All kudos should go to him.
   
