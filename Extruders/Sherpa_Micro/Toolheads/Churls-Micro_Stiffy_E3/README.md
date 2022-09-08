@@ -17,7 +17,7 @@ This is a complete toolhead for the Ender 3 that incorporates the MIRRORED Sherp
 - 2x M3x16mm
 - 2x M3x12mm
 - 3x M3x6mm
-- 4x M3 nuts
+- 3x M3 nuts
 - 7x Heatset Inserts (3x5x4mm)
 
 **Assembly**
