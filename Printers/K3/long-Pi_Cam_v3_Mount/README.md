@@ -7,8 +7,8 @@
 <TD width=50% align="center"><img src="Images/cad.png"></TD>
 </TR>
 <TR>
-<TD width=50% align="center"><img src="Images/15_degree.png"></TD>
-<TD width=50% align="center"><img src="Images/25_degree.png"></TD>
+<TD width=50% align="center"><img src="Images/15_degree.png"><BR>15 Degree Tilt</TD>
+<TD width=50% align="center"><img src="Images/25_degree.png"><BR>25 Degree Tilt</TD>
 </TR>
 <TR>
 <TD width=50% align="center"><img src="Images/picam_mounted.jpg"></TD>
@@ -37,6 +37,7 @@
       - The lens cover uses the other two holes.
    - m3x8mm screws to attach mount to 2020 extrusion.
    - Snap the ribbon holders into the extrusion.  
+      - These work well for me, but I know there's different extrusions out there.  Let me know if you need some adjustments.
       - If you need to remove these later, it's easiest to stick  an allen wrench underneath and pop it up.
 
 **BOM**
