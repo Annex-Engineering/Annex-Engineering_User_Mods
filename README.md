@@ -1,6 +1,8 @@
 # Annex Engineering - User Mods
 
-This repo hosts mods created by end users of the Annex Engineering line of printers, extruders and other misc projects. Please follow the folder hierarchy described below when creating a pull request
+This repo hosts mods created by the development team and end users of the Annex Engineering line of printers, extruders and other misc projects. Please follow the folder hierarchy described below when creating a pull request
+
+This repo may also host mods created for other printers, by the annex development team. They are filed in the "Printers/Other_Printers" folder
 
 ## Folder Hierarchy:
  -  / printer / user_name-mod_name / STLs /
