@@ -27,7 +27,7 @@
       - 15 degree variant shows more of the toolhead, but less of the lower part of the build volume.  I don't generally print tall things, so I like the 15 degree better.
       - If a different angle is desired you can edit the construction plane called "Forward Tilt" in the fusion 360 file.
    - Lens Cover is optional.  I thought it'd be nice to protect the camera from the ABS fumes in my chamber and make it easier to clean.  
-      - The included lens cover uses the replacement phone camera lens glass for an Iphone 13 pro which is 12.4mm diameter.   
+      - The included lens cover uses the replacement phone camera lens glass for an Iphone 13 pro which is ~12mm diameter.   
       - If you have a different lens, I have made this easily modifiable in the fusion 360 file by modifying the user parameters.  You will want to have a lens that is at least 10.5mm diameter or the lens may obstruct the view.
 
 **Build Instructions**
@@ -44,7 +44,7 @@
    - 4x m2x8-10mm screws.  Length here doesn't really matter, althought it may stick out on one side if yours are too long.
    - 2x m3x8mm BHCS or SHCS to attach mount to the 2020
    - 2x m3 t-nuts
-   - **Optional* - 12.4mm Phone Glass Lens (from Iphone 13 PRO).  If you have a different lens ie from a old phone laying around, that will work too by editing the f360 file.
+   - **Optional* - ~12mm Phone Glass Lens (from Iphone 13 PRO).  If you have a different lens ie from a old phone laying around, that will work too by editing the f360 file.
    - Long pi camera ribbon.  I used 1 meter.  My pi4 is mounted at the opposite corner, so it's a long stretch to get to the mounting location.  
 
 **Printing**
