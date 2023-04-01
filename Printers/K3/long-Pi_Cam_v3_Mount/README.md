@@ -1,5 +1,4 @@
-
-**Pi Camera V3 Mount**
+**Pi Camera V3 (wide) Mount**
 ============
 <table width=100%>
 <TR>
@@ -21,7 +20,7 @@
 </TABLE>
 
 **Notes**
-   - Mounts a Pi Camera V3 to the back right extrusion of K3.  
+   - Mounts a Pi Camera V3 (wide) to the back right extrusion of K3.  
    - Angled 45 degrees horizontally.
    - STLS for 15 or 25 degrees of forward tilt.  
       - 25 Degree variant shows more of the build volume and only the very bottom of the toolhead.
@@ -41,6 +40,7 @@
       - If you need to remove these later, it's easiest to stick  an allen wrench underneath and pop it up.
 
 **BOM**
+   - Pi Camera v3 wide.  This was all tested with the wide variant.  Not sure if the normal will work.
    - 4x m2x8-10mm screws.  Length here doesn't really matter, althought it may stick out on one side if yours are too long.
    - 2x m3x8mm BHCS or SHCS to attach mount to the 2020
    - 2x m3 t-nuts

@@ -1,0 +1,6 @@
+Screw mount hinge BOM (per one hinge):
+1x M5x40 SHCS or BHCS
+1x M5 nut
+2x M3x8 SHCS
+2x M3 post assembly nut or T-nut
+2x F695 bearing
