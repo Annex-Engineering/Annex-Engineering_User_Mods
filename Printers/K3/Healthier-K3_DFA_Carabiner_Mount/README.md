@@ -7,11 +7,11 @@
 </TR>
 <TR><TD COLSPAN=2 align="center"><img src="Images/Clearance_Front.jpg"></TD></TR>
 </TABLE>
-- Notes
-   - Carabiner mount integrated with toolhead carriage.  
-   - Included CAD / STL is for Dragon style hotends
-- Printing
-	 - Standard Annex settings
-- Assembling
-	 - Uses 2 M3x4x5 heatset inserts
-	 - Install the upper insert from the back
+### Notes
+- Carabiner mount integrated with toolhead carriage.  
+- Included CAD / STL is for Dragon style hotends
+### Printing
+- Standard Annex settings
+### Assembling
+- Uses 2 M3x4x5 heatset inserts
+- Install the upper insert from the back
