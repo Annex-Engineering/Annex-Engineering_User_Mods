@@ -1,13 +1,13 @@
 # M5-Based Tophat
 
-This mod allows assembly of the K3 tophat using M5 bolts and heat set inserts instead of printed dowels and glue. The design is inspired by [yhaiovyi's tophat](https://github.com/everycoloryouare/Annex-Engineering_User_Mods/tree/main/Printers/K3/yhaiovyi-K3_Glueless_Tophat) mod, but keeps the original K3 design asthetic.
+This mod allows assembly of the K3 tophat using M5 bolts and heat set inserts instead of printed dowels and glue. The design is inspired by [yhaiovyi's tophat](https://github.com/everycoloryouare/Annex-Engineering_User_Mods/tree/main/Printers/K3/yhaiovyi-K3_Glueless_Tophat) mod, but keeps the original K3 design aesthetic.
 
 ![Exploded](Images/top_lid_assembly_exploded.png)
 
 ## Goals
 - Allow for easy assembly and disassembly
 - Improve rigidity
-- Maintain original design asthetic
+- Maintain original design aesthetic
 
 ## BOM
 - Sources for all items can be found in the Annex [sourcing guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#) for the K3.
@@ -32,7 +32,7 @@ Feel free to tag @EveryColorYouAre on the Annex Engineering discord if you have 
 
 ## Notes
 - The Fabreeko kit comes with slightly smaller heat set inserts measuring 7.5mm in diameter instead of 8mm. If you are using these inserts then print the corner parts (tophat_lid_structure_a_fabreeko_x4_rev1) in the <i>STLs/for_frabreeko_heat_set/</i> folder instead.
-- These parts are not compensated for material shrinkage. Please scale your parts in x and y to account for any material shrinkage or else the top panel holes may not line up corretly. A 0.5-1.0% shrinkage will cause the corner bolt holes (which are seperated by 280mm) to be off by 1.4-2.8mm. 
+- These parts are not compensated for material shrinkage. Please scale your parts in x and y to account for any material shrinkage or else the top panel holes may not line up correctly. A 0.5-1.0% shrinkage will cause the corner bolt holes (which are separated by 280mm) to be off by 1.4-2.8mm. 
 
 ## Images
 Cross-section of assembled tophat
@@ -40,3 +40,4 @@ Cross-section of assembled tophat
 
 Test print parts assembled
 ![test_print](Images/test_prints.png)
+
