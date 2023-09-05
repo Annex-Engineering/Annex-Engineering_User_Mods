@@ -1,6 +1,7 @@
 # Beacon X Carriage for VORON Stealthburner Equipped Printers
- - This is not tested and was modeled using the VORON revo toolhead, your mileage may vary. CAD is provided so end users can make adjustments. Modeled at 2mm from nozzle tip in model.
+ - This was modeled using the VORON revo toolhead, your mileage may vary. CAD is provided so end users can make adjustments. Modeled at 2mm from nozzle tip in model.
  - Developed by "Trails" and the ANNEX Engineering Team
+ - User "DoubleT" has confirmed this fits on a V2.4 with a revo hotend
 
 ## License
 STEP and STL files are released under the respective voron license
