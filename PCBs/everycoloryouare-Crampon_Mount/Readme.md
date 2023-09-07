@@ -18,7 +18,7 @@ Two versions for the bottom printed part are available for USB cables with 6mm a
 | Item                                                             | Qty Required |
 | ---                                                              | ---          |
 | Crapon PCB                                                       | 1            |
-| M8 x 10mm Flat Head (included with Crampon)                      | 1            |
+| M6 x 10mm or 12mm Flat Head (included with Crampon)              | 1            |
 | M3 x 8mm SHCS or BHCS                                            | 3            |
 | M3 x 5mm Dia x 4mm Length Heat Set Insert                        | 3            |
 | Micro USB Cable with 6mm or 8mm thick housing                    | 1            |
@@ -33,7 +33,6 @@ Relative position of ADXL345 chip (highlighted) and nozzle mounting bolt:
 | ![a](Images/cad_cross_section.png) | ![a](Images/stock_cross_section.png) | ![a](Images/minimal_cross_section.png) |
 
 - The PCB recess in the bottom printed part is 1.4mm, so the Crampon should sit 0.2 above the lip so that it is in contact with the top printed part.
-- The M8 bolt included with the Crampon might be too long and will have to be shorted to mount correctly.
 
 ## Assembly
 1. Insert three M3 heat set inserts into the top printed part.
