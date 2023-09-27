@@ -9,6 +9,15 @@ This mod allows assembly of the K3 tophat using M5 bolts and heat set inserts in
 - Improve rigidity
 - Maintain original design aesthetic
 
+## Important Printing Notes
+- The Fabreeko kit comes with slightly smaller heat set inserts measuring 7.5mm in diameter instead of 8mm. If you are using these inserts then print the corner parts (tophat_lid_structure_a_fabreeko_x4_rev1) in the <i>STLs/for_frabreeko_heat_set/</i> folder instead.
+- These are large pieces that fit tightly together and are therefore sensitive to material shrinkage. A 0.5-1.0% shrinkage will cause the corner bolt holes (which are separated by 280mm on a side) to be off by 1.4-2.8mm and the top panel will not line up correctly.
+- To compensate for shrinking there are two options:
+    - Scale both tophat_lid_structure_a_x4_rev1 and [a]_tophat_lid_structure_b_x4_rev1 in X and Y. So for a 0.6% shrinkage amount scale X and Y by 100.6%. This may cause the press fit magnets to be loose necessitating gluing the magnets.
+    - Or print one of the pre-compensated [a]_tophat_lid_structure_b_XX_percent_x4_rev1 files in the <i>/STLs/tophat_lid_structure_b_pre-compensated</i> folder where the "XX_percent" corresponds to the material shrink amount. So if the material shrinks by 0.6% print the file [a]_tophat_lid_structure_b_0.6_percent_x4_rev1.stl. A good starting point for ABS and ASA is around 0.5% or 0.6%.
+
+If you are unsure about what compensation to use, print only 2x tophat_lid_structure_a_x4_rev1 and 1x [a]_tophat_lid_structure_b_x4_rev1 using either method with a best guess for the shrink amount and test fit the panel. You can then adjust and print [a]_tophat_lid_structure_b_x4_rev1 parts until the panel lines up correctly.
+
 ## BOM
 - Sources for all items can be found in the Annex [sourcing guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#) for the K3.
 
@@ -29,10 +38,6 @@ Feel free to tag @EveryColorYouAre on the Annex Engineering discord if you have 
 - Insert two M5 heat set inserts into the ends of each tophat corner (tophat_lid_structure_a_x4_rev1).
 - Push two M5 x 20mm bolts into the slot and through the hole in each tophat center ([a]_tophat_lid_structure_b_x4_rev1) and screw into the heat set of the tophat corners using a ball end allen key.
 - Two optional covers can be snapped into the bolt slots of each tophat center.
-
-## Notes
-- The Fabreeko kit comes with slightly smaller heat set inserts measuring 7.5mm in diameter instead of 8mm. If you are using these inserts then print the corner parts (tophat_lid_structure_a_fabreeko_x4_rev1) in the <i>STLs/for_frabreeko_heat_set/</i> folder instead.
-- These parts are not compensated for material shrinkage. Please scale your parts in x and y to account for any material shrinkage or else the top panel holes may not line up correctly. A 0.5-1.0% shrinkage will cause the corner bolt holes (which are separated by 280mm) to be off by 1.4-2.8mm. 
 
 ## Images
 Cross-section of assembled tophat
