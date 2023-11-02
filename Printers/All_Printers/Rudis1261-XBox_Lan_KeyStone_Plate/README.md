@@ -11,6 +11,11 @@ This is to mount your DSI waveshare screen to your Ebox. I like this screen as i
 - Solid Top/bottom layers (4+)
 - Layer height .20mm 
 
+### Notes
+- You will need to use the standoffs to get it to fit. 
+- It is a bit of a tight fit, it's to be expected.
+- The screen should be sandwiched in there fairly well. 
+
 ### Getting the screen and touch to rotate
 
 Edit `/boot/config.txt` with your favourite text editor and add this section to it:
