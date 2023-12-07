@@ -1,0 +1,1 @@
+#Files for inserting an M10 threaded bowden inlet into the electronics box of K-series printers. Any normal M10 bowden inlet will work. 
