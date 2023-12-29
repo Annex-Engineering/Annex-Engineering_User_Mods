@@ -3,4 +3,4 @@
 
   Recommend you add vhb or something between the brackets and panel to stop vibrations while printing.
 
-  STL is for the 150 mm version. maybe. i'm not sure why I made two versions, i don't do version control very well.
+  STL is for the 150 mm version. maybe. but it's the one i've installed pretty sure. i'm not sure why I made two versions maybe 130 mm was too short. i don't do version control very well.
