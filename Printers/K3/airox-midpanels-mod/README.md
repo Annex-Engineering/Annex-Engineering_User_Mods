@@ -19,4 +19,4 @@ within the printer.
 Let me know what could be changed to make it even better.
 
 # Setup
-![picture](Images/midpanels-example)
+![picture](Images/midpanels-example.png)
