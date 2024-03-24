@@ -16,7 +16,7 @@ Hope you like it!
 - Bottom - 24x M3 heat inserts (5mm OD - 4MM length)
 - 24x M3 16mm
 - Magnets - 12 M3 heat inserts (5mm OD - 4MM length)
-- 12 FHCS M3 screws for magnets
+- 12 FHCS M3 14mm screws for magnets
 - Tophat - 12 countersunk magnets 8mm
 - Corners - 12 countersunk magnets reverse polarity 8mm
 
