@@ -17,7 +17,7 @@ Two versions for the bottom printed part are available for USB cables with 6mm a
 
 | Item                                                             | Qty Required |
 | ---                                                              | ---          |
-| Crapon PCB                                                       | 1            |
+| Crampon PCB                                                      | 1            |
 | M6 x 10mm or 12mm Flat Head (included with Crampon)              | 1            |
 | M3 x 8mm SHCS or BHCS                                            | 3            |
 | M3 x 5mm Dia x 4mm Length Heat Set Insert                        | 3            |
