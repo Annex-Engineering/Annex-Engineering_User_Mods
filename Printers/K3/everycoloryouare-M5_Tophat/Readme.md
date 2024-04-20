@@ -1,6 +1,6 @@
 # M5-Based Tophat
 
-This mod allows assembly of the K3 tophat using M5 bolts and heat set inserts or nuts instead of printed dowels and glue. The design is inspired by [yhaiovyi's tophat](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/K3/yhaiovyi-K3_Glueless_Tophat) mod, but keeps the original K3 design aesthetic. Thanks to Exsencer for suggesting the M5 nut version.
+This modification allows assembly of the K3 tophat using M5 bolts and heat set inserts or nuts instead of printed dowels and glue. The design is inspired by [yhaiovyi's tophat mod](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/K3/yhaiovyi-K3_Glueless_Tophat), but keeps the original K3 design aesthetic. Thanks to Exsencer for suggesting the M5 nut version.
 
 Feel free to tag @EveryColorYouAre on the Annex Engineering discord if you have questions or feedback.
 
@@ -12,7 +12,7 @@ Feel free to tag @EveryColorYouAre on the Annex Engineering discord if you have 
 - Maintain original design aesthetic
 
 ## Important Printing Notes
-- There are two versions of the corner pieces which use either M5 8mm Dia x 7mm Length Heat Set Inserts found in the K3 BOM, or regular M5 Nuts. The STLs are separated into folders by fastener type, (though only the corner pieces are different).
+- There are two versions of the corner pieces which use either M5 8mm Dia x 7mm Length Heat Set Inserts found in the K3 BOM, or regular M5 Nuts. The STLs are separated into folders by fastener type.
 - The printed pieces are large and fit together tightly and are therefore sensitive to material shrinkage. A 0.5-1.0% shrinkage will cause the corner bolt holes (which are separated by 280mm on a side) to be off by 1.4-2.8mm and the top panel will not line up correctly.
 - The STL files are pre-compensated for 0.6% shrinkage which should be good for ABS or ASA. For different shrink amounts, instead print the .step files (which are uncompensated) and scale them appropriately.
 

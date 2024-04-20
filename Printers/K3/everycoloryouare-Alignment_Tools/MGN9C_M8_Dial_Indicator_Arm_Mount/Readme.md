@@ -6,7 +6,7 @@ An adapter to mount a dial indicator arm with a M8-1.25 thread to a MGN9C carria
 
 ## Alignment Procedure
 
-1. Mount the dial indicator arm to the carriage clock of a reference rail using the printed adapter (see Assembly below).
+1. Mount the dial indicator arm to the carriage block of a reference rail using the printed adapter (see Assembly below).
 2. Ensure that the reference rail is properly tightened to your frame.
 3. Adjust the indicator arm against the edge of the second rail which you are trying to align. Ensure the indicator arm is fully locked down and stable.
 4. Loosen all the bolts on the second rail.

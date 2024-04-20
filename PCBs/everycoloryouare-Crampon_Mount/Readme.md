@@ -9,7 +9,7 @@ Two versions for the bottom printed part are available for USB cables with 6mm a
 ## Goals
 - Positions the ADXL345 accelerometer at the nozzle tip
 - Minimizes weight while still being easy to install (work in progress)
-- Fits on the K3 carriage without hitting the part cooling fan ducts or beacon probe
+- Fits on the K3 carriage without hitting the part cooling fan ducts or Beacon probe
 - Works with 6mm and 8mm thick USB cables
 
 ## BOM

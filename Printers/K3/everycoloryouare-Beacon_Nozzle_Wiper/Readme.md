@@ -1,6 +1,6 @@
 # Nozzle Wiper and Purge Bucket for Beacon
 
-Modifications to the stock K3 nozzle wipe and purge bucket parts to remove interferences that would colide with the Beacon. The current iteration opts for a fixed wiper for simplicity. Should work for both RevD and RevH Beacons according to CAD, but has only been tested with RevD. Inspired by the nozzle wiper user modification from [chkockle](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/K3/chkockle-Nozzle_Wiper_Beacon).
+Modifications to the stock K3 nozzle wiper and purge bucket parts to remove interferences that would colide with the Beacon. The current version of this modification opts for a fixed wiper for simplicity and should work for both RevD and RevH Beacons according to CAD, but has only been tested with RevD. Inspired by the nozzle wiper user modification from [chkockle](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/K3/chkockle-Nozzle_Wiper_Beacon).
 
 The nozzle_wiper_clamp printed part from the stock wiper is unchanged and can be found [here](https://github.com/Annex-Engineering/Gasherbrum-K3/tree/main/Release_1_2/STLs/Probe_Dock_and_Purge_Bucket). The stock purge_bucket can be reused if the "tab" on the top is cut off.
 
