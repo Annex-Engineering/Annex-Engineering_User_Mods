@@ -6,6 +6,9 @@ Feel free to tag @EveryColorYouAre on the Annex Engineering discord if you have 
 
 ![Exploded](Images/top_lid_assembly_exploded.png)
 
+## Version Updates
+- rev2 - Increased radius on corners of the covers and cover holes on the center pieces, increased tolerance gap from 0.1 to 0.15mm. Slightly changed shape of corner matting surface for better matching to center piece
+
 ## Goals
 - Allow for easy assembly and disassembly
 - Improved rigidity
@@ -14,7 +17,7 @@ Feel free to tag @EveryColorYouAre on the Annex Engineering discord if you have 
 ## Important Printing Notes
 - There are two versions of the corner pieces which use either M5 8mm Dia x 7mm Length Heat Set Inserts found in the K3 BOM, or regular M5 Nuts. The STLs are separated into folders by fastener type.
 - The printed pieces are large and fit together tightly and are therefore sensitive to material shrinkage. A 0.5-1.0% shrinkage will cause the corner bolt holes (which are separated by 280mm on a side) to be off by 1.4-2.8mm and the top panel will not line up correctly.
-- The STL files are pre-compensated for 0.6% shrinkage which should be good for ABS or ASA. For different shrink amounts, instead print the .step files (which are uncompensated) and scale them appropriately.
+- The STL files are pre-compensated for 0.5% shrinkage which should be good for ABS or ASA. For different shrink amounts, instead print the uncompensated .step files and scale them appropriately.
 
 ## BOM
 - Sources for all items can be found in the Annex [sourcing guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#) for the K3.
@@ -36,9 +39,12 @@ Feel free to tag @EveryColorYouAre on the Annex Engineering discord if you have 
 Cross-section of assembled tophat
 ![section](Images/top_lid_assembly_cross_section.png)
 
+Completed Assembly
+![Printed Bottom](Images/printed_bottom.jpg)
+![Printed Top](Images/printed_top.jpg)
+
 ## Tolerance Test Prints
 This mod has not been fully tested with different printer tolerances or material types. If you are curious how parts will fit but don't want to waste filament on the full parts, there are test parts you can print in the <i>STLs/test_prints/</i> folder to check fitment.
 
-Test print parts assembled
 ![test_print](Images/test_prints.png)
 
