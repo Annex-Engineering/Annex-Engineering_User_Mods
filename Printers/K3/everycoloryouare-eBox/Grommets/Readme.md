@@ -1,6 +1,6 @@
 # Modified Grommets and Nuts
 
-A set of grommets variants for different for routing from the printer to the electronic box. The different variants are intended to minimize the heat loss through the grommet into the electronic box by limiting the feedthrough gaps.
+A set of grommets variants for routing from the printer through the panels to the electronic box. The different variants are intended to minimize the heat loss through the grommet into the electronic box by limiting the feedthrough gaps. Designs are based on the annex engineering grommets for the K series printers with modified openings, thread profile, and thread diameter.
 
 ![CAD](Images/grommets_cad.png)
 
@@ -18,4 +18,4 @@ The split grommet screws have no clearances between the sides and some light san
 The grommet nuts come in three variants with 0.05mm, 0.1mm, and 0.2mm clearances between the nut threads and the grommet screw threads.
 
 ## Other Variants
-Feel free to modify the CAD files to make other variants, or contact @everycoloryouare on discord to request versions for a particular use case.
+Feel free to modify the CAD files to make other variants, or contact @EveryColorYouAre on the Annex Engineering discord to request versions for a particular use case.
