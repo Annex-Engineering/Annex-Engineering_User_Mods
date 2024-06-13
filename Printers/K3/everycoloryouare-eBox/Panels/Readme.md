@@ -1,0 +1,3 @@
+# Dual Color eBox Panels
+
+Annex electronic box panels based on [Karabox's eBox mod](https://github.com/karabox/MISC/tree/main/Annex%20Mods/K3%20eBox%20mod) which splits the default panels into two parts such that inserts can be printed in a different color to give a dual tone asthetic. This modification similarly keeps the dual tone color but also remodels the default panels to be 5mm thinner so the overall electronic box is less bulky.
