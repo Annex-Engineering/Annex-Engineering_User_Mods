@@ -12,7 +12,7 @@ The grommet screws are designed to be flush with the grommet nut once tightened 
 - 25mm grommet with a split 4mm wide slot which can fit two motor wire bundles in addition to a couple of miscellaneous wires (LEDs, thermistors, etc).
 - 38mm grommet with a 26mm open for general purpose use that can fit a 16 pin microfit connector.
 - 38mm grommet with a split angled slot that fits a wiring harness, PTFE tube, and a USB cable.
-- 25mm and 38mm grommets that are completely solid to be used as plugs or modify to make other versions.
+- 25mm and 38mm grommets that are completely solid to be used as plugs or modified to make other versions.
 
 The split grommet screws have no clearances between the sides and some light sanding might be required to have the two halves lay flush and accept the nut.
 

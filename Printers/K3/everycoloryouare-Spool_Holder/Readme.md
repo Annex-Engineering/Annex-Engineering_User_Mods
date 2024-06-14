@@ -12,7 +12,7 @@ The spool holder base has a section that requires a decently large section of br
 
 | Item                                                             | Qty Required  |
 | ---                                                              | ---           |
-| 4mm OD PTFE, 80-85mm in length                                   | 1             |
-| M3x16mm SHCS                                                     | 2             |
+| 4mm OD PTFE, 80-85mm in Length                                   | 1             |
+| M3 x 16mm SHCS                                                   | 2             |
 
 Mounting the spool holder with two 16mm SHCS should work for 2mm or 3mm panels with 3mm panel spacers. If both panels and panel spacers are 2mm thick then 16mm screws might be too long depending on extrusion manufacturer.
