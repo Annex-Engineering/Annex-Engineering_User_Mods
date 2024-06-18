@@ -17,7 +17,7 @@ Annex electronic box panels based on [Karabox's eBox mod](https://github.com/kar
 | Item                                                             | Qty Required  |
 | ---                                                              | ---           |
 | M3 x 5mm Dia x 4mm Length Heat Set Insert                        | 40            |
-| M5 x 16mm BHCS                                                   | 16            |
+| M5 x 14mm BHCS                                                   | 16            |
 | M3 x 8mm SHCS                                                    | 28            |
 | M3 x 6mm SHCS                                                    | 4             |
 | M3 x 22mm SHCS                                                   | 8             |
