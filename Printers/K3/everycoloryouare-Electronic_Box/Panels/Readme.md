@@ -17,10 +17,10 @@ Annex electronic box panels based on [Karabox's eBox mod](https://github.com/kar
 | Item                                                             | Qty Required  |
 | ---                                                              | ---           |
 | M3 x 5mm Dia x 4mm Length Heat Set Insert                        | 40            |
-| M5 x 14mm BHCS                                                   | 16            |
+| M5 x 14mm or 16mm BHCS                                           | 16            |
 | M3 x 8mm SHCS                                                    | 28            |
 | M3 x 6mm SHCS                                                    | 4             |
-| M3 x 22mm SHCS                                                   | 8             |
-| M10 Pneumatic Bowden Fittings (Optional)                         | 1             |
+| M3 x 20mm or 22mm SHCS                                           | 8             |
+| M10 Pneumatic Bowden Fittings                                    | 1             |
 
 Bolt lengths assume 2mm electronic box panels and two 8015 axial fans are used. Washers on the M3 screws are recommended.

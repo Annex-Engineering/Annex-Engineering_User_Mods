@@ -20,9 +20,9 @@ Annex electronic box brackets for a simplified layout that focuses on easy assem
 
 | Item                                                             | Qty Required  |
 | ---                                                              | ---           |
-| M3 x 5mm Dia x 4mm Length Heat Set Insert                        | 8             |
+| M3 x 5mm Dia x 4mm Length Heat Set Insert                        | 4             |
+| M3 x 5mm Dia x 6mm Length Heat Set Insert                        | 4             |
 | M5 x 8mm SHCS or BHCS                                            | 10            |
 | M5 x 10mm SHCS or BHCS                                           | 4             |
-| M3 x 8mm SHCS                                                    | 4             |
-| M3 x 6mm SHCS                                                    | 2             |
-| M2.5 x 12 SHCS                                                   | 4             |
+| M3 x 6mm SHCS                                                    | 6             |
+| M2.5 x 10 SHCS                                                   | 4             |
