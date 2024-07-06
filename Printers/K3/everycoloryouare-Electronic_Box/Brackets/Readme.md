@@ -26,3 +26,4 @@ Annex electronic box brackets for a simplified layout that focuses on easy assem
 | M5 x 10mm SHCS or BHCS                                           | 4             |
 | M3 x 6mm SHCS                                                    | 6             |
 | M2.5 x 10 SHCS                                                   | 4             |
+| 1mm Thick x 5mm or 8mm Wide Foam Tape	                           | 300 mm        |
