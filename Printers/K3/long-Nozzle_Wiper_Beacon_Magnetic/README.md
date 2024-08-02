@@ -3,6 +3,8 @@
 ============
 
 [![Video of nozzle wiper in action](https://img.youtube.com/vi/3os2rSJHRqE/0.jpg)](https://www.youtube.com/watch?v=3os2rSJHRqE)
+*click for video of the wiper in action*
+  
 <table width=100%>
 <TR>
 <TD width=50% align="center"><img src="Images/mounted_bucket.jpg"></TD>
@@ -17,8 +19,8 @@
 <TD width=50% align="center"><img src="Images/side.jpg"></TD>
 </TR>
 <TR>
-<TD width=50% align="center"><img src="Images/lower_magnet_mount_bottom.jpg"></TD>
-<TD width=50% align="center"><img src="Images/lower_magnet_mount_top.jpg"></TD>
+<TD width=50% align="center"><img src="Images/lower_magnet_mount_bottom.jpg"><BR>this is bottom of the lower magnet mount.  This magnet attaches to the purge bucket.</TD>
+<TD width=50% align="center"><img src="Images/lower_magnet_mount_top.jpg"><BR>The m3x8 acts as the wiper arm down stop.  This magnet opposes the magnet int he wiper arm.</TD>
 </TR>
 <TR>
 <TD width=50% align="center"><img src="Images/under.jpg"></TD>
