@@ -1,9 +1,10 @@
 
 **K3 Nozzle Wiper - Beacon Compatible, Magnetic Arm**
 ============
-
 [![Video of nozzle wiper in action](https://img.youtube.com/vi/3os2rSJHRqE/0.jpg)](https://www.youtube.com/watch?v=3os2rSJHRqE)
+
 *click for video of the wiper in action*
+  
   
 <table width=100%>
 <TR>
@@ -19,8 +20,8 @@
 <TD width=50% align="center"><img src="Images/side.jpg"></TD>
 </TR>
 <TR>
-<TD width=50% align="center"><img src="Images/lower_magnet_mount_bottom.jpg"><BR>this is bottom of the lower magnet mount.  This magnet attaches to the purge bucket.</TD>
-<TD width=50% align="center"><img src="Images/lower_magnet_mount_top.jpg"><BR>The m3x8 acts as the wiper arm down stop.  This magnet opposes the magnet int he wiper arm.</TD>
+<TD width=50% align="center"><img src="Images/lower_magnet_mount_bottom.jpg"><BR>This is bottom of the lower magnet mount.  This magnet attaches to the purge bucket.</TD>
+<TD width=50% align="center"><img src="Images/lower_magnet_mount_top.jpg"><BR>The m3x8 acts as the wiper arm down stop.  This magnet opposes the magnet in the wiper arm.</TD>
 </TR>
 <TR>
 <TD width=50% align="center"><img src="Images/under.jpg"></TD>
@@ -61,7 +62,7 @@
    - Assemble the [Lower Magnet Mount]
      - Insert a 6mm x 3mm magnet into the angled hole on the upper side of the part (makes sure the orientation opposes the magnet in the [Wiper Arm].  
      - Insert a m3x8 up through the hole on the underside of the [Lower Magnet Mount].  *This is the arm down stop*.  
-       - ***Adjust this so that it restricts the wiper arm to just above the level of the nozzle tip***
+       - ***Adjust this so that it restricts the wiper arm to just above the level of the nozzle tip.***  This helps give the nozzle tip a firm wipe.
      - Insert a 6mm x 3mm magnet into the underside, noting orientation for the purge bucket.
      - Glue the [Lower Magnet Mount] to the [Nozzle Wiper Base].  
    - Assemble the [Purge Bucket]
