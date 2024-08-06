@@ -9,7 +9,6 @@ Annex electronic box panels based on [Karabox's eBox mod](https://github.com/kar
 - There are two different inserts for bowden couplers, one with a centered inlet angled down and one with an off-center inlet angled down and to the side.
 - For each base panel, there are three versions with 0.05mm, 0.1mm, and 0.2mm clearances for inserts. Depending on printer tolerances and the clearance chosen the insert will either need to be glued or press fit.
 - Also included are redesigned cover panel handles that are 5mm thinner and have the Annex mountain styling.
-- The pneumatic bowden fitting is screwed directly into the plastic. The hole might need to be drilled out or tapped depending on the exact fitting used.
 
 ## BOM
 - Sources for all items can be found in the Annex [sourcing guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#) for the K3.
