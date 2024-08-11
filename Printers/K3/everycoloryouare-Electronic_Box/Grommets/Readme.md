@@ -19,4 +19,16 @@ The split grommet screws have no clearances between the sides and some light san
 The grommet nuts come in three variants with 0.05mm, 0.1mm, and 0.2mm clearances between the nut threads and the grommet screw threads.
 
 ## Other Variants
+
 Feel free to modify the CAD files to make other variants, or contact @EveryColorYouAre on the Annex Engineering discord to request versions for a particular use case.
+
+## Print Settings
+
+- Nozzle Size: 0.4mm or 0.5mm
+- Material: ABS or ASA
+- Layer Height: 0.2mm
+- Infill Percentage: 40%
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+
+Print with imported orientation and no shrink compensation for ABS or ASA.

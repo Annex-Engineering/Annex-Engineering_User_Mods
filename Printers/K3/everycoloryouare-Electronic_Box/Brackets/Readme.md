@@ -16,6 +16,7 @@ Annex electronic box brackets for a simplified layout that focuses on easy assem
 - Narrower Wago mounts that support one, two, or three of the 5 conductor 221-415 Wago splicing connector.
 
 ## BOM
+
 - Sources for all items can be found in the Annex [sourcing guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#) for the K3.
 
 | Item                                                             | Qty Required  |
@@ -27,3 +28,14 @@ Annex electronic box brackets for a simplified layout that focuses on easy assem
 | M3 x 6mm SHCS                                                    | 6             |
 | M2.5 x 10 SHCS                                                   | 4             |
 | 1mm Thick x 5mm or 8mm Wide Foam Tape	                           | 300 mm        |
+
+## Print Settings
+
+- Nozzle Size: 0.4mm or 0.5mm
+- Material: ABS or ASA
+- Layer Height: 0.2mm
+- Infill Percentage: 40%
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+
+Print with imported orientation and no shrink compensation for ABS or ASA.

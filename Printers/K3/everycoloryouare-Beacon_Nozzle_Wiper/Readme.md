@@ -7,15 +7,18 @@ The nozzle_wiper_clamp printed part from the stock wiper is unchanged and can be
 ![CAD](Images/CAD.png)
 
 ## Goals
+
 - Try to maintain stock aesthetics
 - Removes any geometries that would interfere with the Beacon probe
 - Support-free printing
 
 ## Shortcomings of Current Version
+
 - Finicky to adjust height
 - No "spring-loaded" wipe action
 
 ## BOM
+
 - Sources for all items can be found in the Annex [sourcing guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#) for the K3.
 
 | Item                                                             | Qty Required  |
@@ -26,7 +29,19 @@ The nozzle_wiper_clamp printed part from the stock wiper is unchanged and can be
 | Silicone 14+ mm Length                                           | 1             |
 
 ## Assembly
+
 - Install 1x M3 Heat Set Inserts in the nozzle_wiper_bracket and 4x in the nozzle_wiper_arm.
 - Clamp a silicone strip between the nozzle_wiper_arm and nozzle_wiper_clamp with 2x M3 screws
 - Attach the nozzle_wiper_arm to the nozzle_wiper_base with 2x M3 screws from the bottom.
 - Attach the nozzle_wiper_base to the nozzle_wiper_bracket with a M3 screw using the access hole in the side of the base.
+
+## Print Settings
+
+- Nozzle Size: 0.4mm or 0.5mm
+- Material: ASA or PC-CF
+- Layer Height: 0.2mm
+- Infill Percentage: 40%
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+
+Print with imported orientation and no shrink compensation for ASA or PC-CF.

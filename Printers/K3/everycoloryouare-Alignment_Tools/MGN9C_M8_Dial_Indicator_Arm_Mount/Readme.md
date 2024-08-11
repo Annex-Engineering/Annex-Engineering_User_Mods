@@ -21,6 +21,7 @@ An adapter to mount a dial indicator arm with a M8-1.25 thread to a MGN9C carria
 ![Alignment](Images/alignment.png)
 
 ## Assembly
+
 - Insert the four M3 bolts into the printed part.
 - Screw the printed part into the M8 thread of the dial indicator arm.
 - Using a ball end allen key, screw the four M3 bolts into the carriage block of a mounted rail.
@@ -34,3 +35,13 @@ An adapter to mount a dial indicator arm with a M8-1.25 thread to a MGN9C carria
 | M3 x 6mm SHCS                                                    | 4             |
 | Dial Indicator Arm with M8 thread                                | 1             |
 
+## Print Settings
+
+- Nozzle Size: 0.4mm or 0.5mm
+- Material: ABS, ASA or PLA
+- Layer Height: 0.2mm
+- Infill Percentage: 40%
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+
+Print with imported orientation and no shrink compensation for ABS, ASA or PLA.
