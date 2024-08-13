@@ -1,31 +1,33 @@
-# Detachable K3 Spool Holder
+# Fixed K3rabiner Sherpa Micro Mosquito/Dragon Plate
 
-A better spool holder for the K3 that uses a PTFE tube as a bearing surface and can be detached easily when it is not in use. The design is heavily based on the [Voron Switchwire spool holder](https://github.com/VoronDesign/Voron-Switchwire/tree/master/STL) with the base modified to mount to the side of the K3, and some tweaks to the locking mechanism and styling.
+The new K3rabiner compatible carriage plate that supports the Sherpa Micro extruder has several issues that this fixed version fixes. Also included is a slightly modified mirrored Sherp Micro front plate to match the fixed plate.
 
-![CAD](Images/exploded.png)
+![CAD](Images/cad.png)
 
-## Notes
+- Addes a chamfer to the Sherpa Micro heat set hole so the countersunk hole can be correctly printed with FDM.
+- Increases the thickness of the wall next to the counter-sunk hole to improve printability with 0.4 mm or 0.5 mm nozzles.
+- Changes the angle of the face that attaches to the Sherpa Micro front plate to correctly align with the Sherpa Micro since the K3rabiner changed the angle of the extruder on the plate from 35 degrees to 32 degrees.
 
-The spool holder base has a section that requires a decently large section of bridging. If your bridge settings are not dialed the locking mechanism might be overly tight but will probably break in over time.
+| Fixed | Stock |
+| --- | --- |
+| ![a](Images/hole_cad.png) | ![a](Images/stock_hole_cad.png) |
+| ![a](Images/thickness_cad.png) | ![a](Images/stock_thickness_cad.png) |
+| ![a](Images/angle_cad.png) | ![a](Images/stock_angle_cad.png) |
+
+## Printing Notes
+- Due to the importance of z dimensions on the printed carriage on the K3, this part (or the stock plate) should be printed with a 0.3mm first layer and 0.2 mm subsequent layers so that height between the two rail carriage mounting surfaces is exactly 6.5mm.
 
 ## BOM
 
-- Sources for all items can be found in the Annex [sourcing guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#) for the K3.
-
-| Item                                                             | Qty Required  |
-| ---                                                              | ---           |
-| 4mm OD PTFE, 80-85mm in Length                                   | 1             |
-| M3 x 16mm SHCS                                                   | 2             |
-
-Mounting the spool holder with two 16mm SHCS should work for 2mm or 3mm panels with 3mm panel spacers. If both panels and panel spacers are 2mm thick then 16mm screws might be too long depending on extrusion manufacturer.
+- No hardware changes from the stock part.
 
 ## Print Settings
 
 - Nozzle Size: 0.4mm or 0.5mm
-- Material: ABS or ASA
-- Layer Height: 0.2mm
+- Material: ASA or PC-CF
+- Layer Height: 0.2mm (with 0.3mm first layer)
 - Infill Percentage: 40%
 - Wall Count: 4
 - Solid Top/Bottom Layers: 5
 
-Print with imported orientation and no shrink compensation for ABS or ASA.
+Print with imported orientation and no shrink compensation for ASA or PC-CF.
