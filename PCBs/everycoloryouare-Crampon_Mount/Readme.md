@@ -7,12 +7,14 @@ Two versions for the bottom printed part are available for USB cables with 6mm a
 ![Exploded](Images/assembly_exploded.png)
 
 ## Goals
+
 - Positions the ADXL345 accelerometer at the nozzle tip
 - Minimizes weight while still being easy to install (work in progress)
 - Fits on the K3 carriage without hitting the part cooling fan ducts or Beacon probe
 - Works with 6mm and 8mm thick USB cables
 
 ## BOM
+
 - Sources for all items can be found in the Annex [sourcing guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#) for the K3 or at the official Annex Stores ([US](https://store.annex.engineering/), [EU](https://annex-engineering.eu/))
 
 | Item                                                             | Qty Required |
@@ -35,6 +37,7 @@ Relative position of ADXL345 chip (highlighted) and nozzle mounting bolt:
 - The PCB recess in the bottom printed part is 1.4mm, so the Crampon should sit 0.2 above the lip so that it is in contact with the top printed part.
 
 ## Assembly
+
 1. Insert three M3 heat set inserts into the top printed part.
 2. Insert Crampon PCB into the bottom printed part.
 3. Attach USB cable to Crampon and zip-tie USB cable to the strain relief tab on the bottom printed part.
@@ -42,3 +45,13 @@ Relative position of ADXL345 chip (highlighted) and nozzle mounting bolt:
 5. Attach the top printed part into the hotend thread using a M8 flat head bolt.
 6. Attach the bottom printed part using three M3 bolts.
 
+## Print Settings
+
+- Nozzle Size: 0.4mm or 0.5mm
+- Material: ABS, ASA, or PLA
+- Layer Height: 0.2mm
+- Infill Percentage: 40%
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+
+Print with imported orientation and no shrink compensation for ABS, ASA, or PLA.

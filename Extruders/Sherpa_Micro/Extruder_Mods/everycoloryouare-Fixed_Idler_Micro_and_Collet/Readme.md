@@ -5,8 +5,24 @@ This modification of the [fixed idler Sherpa Micro](https://github.com/Annex-Eng
 ![CAD](Images/CAD.png)
 
 ## BOM
+
 - Standard components for a sherpa micro as found in the Annex [sourcing guide](https://docs.google.com/spreadsheets/d/1hLOB7WidcGEu_qyc0NL_E8Wi-I3VTqyk131Jo7_nR3E/edit#gid=331700872) and additionally:
 
 | Item                                                             | Qty Required  |
 | ---                                                              | ---           |
 | 5mm collet (E3D V6, Bondtech)                                    | 1             |
+
+## Print Settings
+
+- Nozzle Size: 0.4mm or 0.5mm
+- Material: ASA or PC-CF
+- Layer Height: 0.2mm
+- Infill Percentage: 40%
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+
+Print with imported orientation and no shrink compensation for ASA or PC-CF.
+
+## Change Log
+
+- fixed_idler_housing_core_collet_x1_rev2: Fixed two minor geometry errors on the filament exit and changed the shape of the fixed idler pin hole to eliminate the thin wall.

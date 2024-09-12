@@ -32,3 +32,14 @@ Make note of the shims used and then repeat the above steps for the idler closes
 
 Using the tool to verify final pulley and idler stackup on the printer
 ![Alignment](Images/alignment.png)
+
+## Print Settings
+
+- Nozzle Size: 0.4mm or 0.5mm
+- Material: ABS, ASA or PLA
+- Layer Height: 0.2mm
+- Infill Percentage: 40%
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+
+Print with imported orientation and no shrink compensation for ABS, ASA or PLA.
