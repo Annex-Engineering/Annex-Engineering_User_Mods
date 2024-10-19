@@ -1,0 +1,1 @@
+This is a simple mod for the R2 (Oct 1, 2023) version of the Sherpa Mini for 4.6mm diameter heat set inserts commonly found on Amazon.
